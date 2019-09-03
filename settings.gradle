@@ -1,0 +1,3 @@
+include ':app',
+        ':CoordinatorLayoutDemo', ':UcMainPagerDemo', ':AlipayHomeSample',
+        ':QQBroswerDemo', ':behaviorLibrary'
